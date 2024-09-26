@@ -105,3 +105,4 @@ sendTransport.produce(
 ```
 
 Check [example](https://github.com/Blancduman/mediasoup_client_flutter_example) for more information;
+# inapi_core_sdk
